@@ -133,4 +133,4 @@ Run the SQL files in this order:
 
 - Eric Solorzano
 - Hai Sieu Cao
-- Eric Solorzano
+- Roberto Covarrubias
