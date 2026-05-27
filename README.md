@@ -18,6 +18,11 @@ Concepts being used to demonstrate this database project:
 - CRUD Operations
 
 ---
+## Entity Relationship Diagram
+
+![ERD](docs/restaurant-dbms-ERD.png)
+
+---
 ## Project Files
 
 ### `001_init.sql`
